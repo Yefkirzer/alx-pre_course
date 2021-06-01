@@ -1,2 +1,2 @@
 **ALX git project**
-its just a blank douciment for now
+This repo is created by yefkirzer tesfaye as a first git project on ALX-software engineering program
